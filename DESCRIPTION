@@ -2,12 +2,12 @@ Package: pkgndep.db
 Type: Package
 Title: Package database for pkgndep package
 Version: 0.0.1
-Date: 2021-11-26
+Date: 2022-01-05
 Authors@R: person("Zuguang", "Gu", email = "z.gu@dkfz.de", role = c("aut", "cre"),
                   comment = c('ORCID'="0000-0002-7395-8709"))
 Depends: R (>= 3.5.0)
 Suggests: pkgndep
 Description: It provides processed package dependency results for all CRAN/Bioconductor 
     packages retrieved on 2021-10-28.
-URL: https://github.com/jokergoo/pkgndep.d
+URL: https://github.com/jokergoo/pkgndep.db
 License: MIT + file LICENSE
